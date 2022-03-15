@@ -1,0 +1,41 @@
+header{
+    background-color: gray ;
+    
+}
+h1 {
+    color: white
+}
+.btn-group .button {
+    float: right;
+    background-color:black; 
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100px;
+    display:header-inline;
+  }
+  .buttonn{
+    float: left;
+    background-color:black; 
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100px;
+    display:header-inline;
+  }
+  body{
+     width: "300";
+     height: auto;
+  }
+  #footer{
+      background-color: gray;
+  }
+  footer{
+      background-color: grey;
+  }
